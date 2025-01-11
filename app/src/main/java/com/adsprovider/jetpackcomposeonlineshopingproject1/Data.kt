@@ -1,7 +1,7 @@
 package com.adsprovider.jetpackcomposeonlineshopingproject1
 
 import androidx.annotation.DrawableRes
-//Madhav Aneraye 1 s
+//Madhav Aneraye 1 s d
 object Data {
     class Demo(
         @DrawableRes var img:Int,
